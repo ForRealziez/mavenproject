@@ -11,6 +11,6 @@ package za.ac.cput.mavenproject;
  */
 public class MarvenClass {
     public static void main(String[] args) {
-        System.out.println("maven");
+        System.out.println("maven adp2");
     }
 }
